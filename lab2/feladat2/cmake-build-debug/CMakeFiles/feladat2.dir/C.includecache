@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/DSA_lab_Patka_Richard_Istvan/DSA_lab_Patka-Richard-Istvan/lab2/feladat2/cmake-build-debug/function.c
+function.h
+C:/DSA_lab_Patka_Richard_Istvan/DSA_lab_Patka-Richard-Istvan/lab2/feladat2/cmake-build-debug/function.h
+
+C:/DSA_lab_Patka_Richard_Istvan/DSA_lab_Patka-Richard-Istvan/lab2/feladat2/cmake-build-debug/function.h
+
+C:/DSA_lab_Patka_Richard_Istvan/DSA_lab_Patka-Richard-Istvan/lab2/feladat2/main.c
+stdio.h
+-
+
