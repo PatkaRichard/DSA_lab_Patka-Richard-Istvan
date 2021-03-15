@@ -18,5 +18,13 @@ void readMatrix(const char *fileName, Matrix **array);
 //tömb tartalmának kiiratása a képernyőre
 void printMatrix(Matrix* array);
 
+void soratlag(int rows, Matrix *array);
+
+void oszlopatlag(int cols, Matrix *array);
+
+void teljesatlag(Matrix *array);
+
+
+
 
 #endif //FELADAT1_FUNCTION_H
